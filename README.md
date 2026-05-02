@@ -129,6 +129,7 @@ git commit -m "Initial commit"
 2. “初始化项目结构”：新建了index.html， script.js，style.css用于测试
 3. “填充网页内容，为个人网站搭建做准备”：修改了index.html， script.js，style.css，搭建个人网页的基础界面
 4. “修改个人网页结构，完善三个入口的跳转”修改了index.html， script.js，style.css，同时增加：notes.html,works.html,diary.html，便于页面的跳转
+5. “修正README并补充插图”：完善readme和readme用到的插图
 
 # 四、遇到的问题及解决方法（不少于2个）；
 
